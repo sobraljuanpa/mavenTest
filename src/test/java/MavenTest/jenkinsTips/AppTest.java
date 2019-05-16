@@ -60,4 +60,20 @@ public class AppTest {
 		
 		assertEquals(a,b);
 	}
+
+	@Test
+	public void equalsTest18() {
+		int a = 2;
+		int b = 6;
+		
+		assertEquals(a,b);
+	}
+
+	@Test
+	public void equalsTest28() {
+		int a = 3;
+		int b = 6;
+		
+		assertEquals(a,b);
+	}
 }
