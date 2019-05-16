@@ -22,7 +22,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void equalsTest1() {
+	public void equalsTest3() {
 		int a = 2;
 		int b = 2;
 		
@@ -30,7 +30,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void equalsTest1() {
+	public void equalsTest4() {
 		int a = 3;
 		int b = 3;
 		
@@ -38,7 +38,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void equalsTest1() {
+	public void equalsTest5() {
 		int a = 4;
 		int b = 4;
 		
@@ -46,7 +46,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void equalsTest1() {
+	public void equalsTest6() {
 		int a = 5;
 		int b = 5;
 		
@@ -54,7 +54,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void equalsTest1() {
+	public void equalsTest8() {
 		int a = 6;
 		int b = 6;
 		
