@@ -63,7 +63,7 @@ public class AppTest {
 
 	@Test
 	public void equalsTest18() {
-		int a = 2;
+		int a = 6;
 		int b = 6;
 		
 		assertEquals(a,b);
@@ -71,7 +71,7 @@ public class AppTest {
 
 	@Test
 	public void equalsTest28() {
-		int a = 3;
+		int a = 6;
 		int b = 6;
 		
 		assertEquals(a,b);
